@@ -21,5 +21,8 @@ Dette er en liten webapplikasjon for å bestille kinobiletter. Kjøperen velger 
 ## Eventuelle mangler:
 Deployering på Heroku er ikke gjennomført på grunn av sikkerhetsproblemet - problemer med å knytte GitHub-repoer til Heroku-apper.
 
+## Kommentar:
+Det ligger en annen eksempel inne i repoen med Kunde Registrering (et POJO-objekt av typen Kunde lagres i array og overføres som JSON-objekt til og fra serveren).
+
 ***
 Sirin Koca | OsloMet | 2022
