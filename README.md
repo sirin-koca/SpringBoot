@@ -25,7 +25,5 @@ Deployering på Heroku er ikke gjennomført på grunn av sikkerhetsproblemet - p
 ## Kommentar:
 Under resources ligger et eksempel på POJO-objekt av typen Kunde.
 
-## Kunde Register: [index.html](https://sirin-koca.github.io/SpringBoot/src/main/resources/static/index.html)
-
 ***
 Sirin Koca | OsloMet | 2022
