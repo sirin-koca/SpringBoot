@@ -23,7 +23,7 @@ Dette er en liten webapplikasjon for å bestille kinobiletter. Kjøperen velger 
 Deployering på Heroku er ikke gjennomført på grunn av sikkerhetsproblemet - problemer med å knytte GitHub-repoer til Heroku-apper.
 
 ## Kommentar:
-Det ligger et annet eksempel inne i repoen: Kunde Register (et POJO-objekt av typen Kunde overføres som JSON-objekt til og fra serveren).
+Under resources ligger et eksempel på POJO-objekt av typen Kunde.
 
 ## Kunde Register: [index.html](https://sirin-koca.github.io/SpringBoot/src/main/resources/static/index.html)
 
