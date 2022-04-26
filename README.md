@@ -15,7 +15,7 @@ Jeg har brukt Spring Framework sine innebygde moduler for å jobbe mot database:
 * JDBC API (spring-boot-starter-jdbc)
 
 ## Eventuelle mangler:
-Deployering / publisering på Heroku er ikke gjennomført på grunn av sikkerhetsproblemet - problemer med å knytte GitHub-repoer til Heroku-apper.
+Deployering på Heroku er ikke gjennomført på grunn av sikkerhetsproblemet - problemer med å knytte GitHub-repoer til Heroku-apper.
 
 ***
 Sirin Koca | OsloMet | 2022
