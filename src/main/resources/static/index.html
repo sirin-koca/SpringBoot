@@ -3,21 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <title>Kunde</title>
+    <script src="script.js" defer></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/2.3.1/css/bootstrap.min.css">
 </head>
 <body>
+
 <h2>Kunde Registrering</h2>
 Kundens navn: <input type="text" id="navn"><br/>
-Kundens adresse: <input type="text" id="addresse"><br/>
+Kundens adresse: <input type="text" id="adresse"><br/>
 Kundens telefonnr: <input type="number" id="telefon"><br/>
 Kundens e-post: <input type="email" id="epost"><br/>
-<button onclick="hentKunde();">Registrer</button><br/>
+<button class="" onclick="hentKunde();">Registrer</button><br/>
 <hr>
 Navn: <span id="utnavn"></span><br/>
 Adresse: <span id="utadresse"></span><br/>
 Telefonnr: <span id="uttlf"></span><br/>
 E-post: <span id="utepost"></span><br/>
 <br/>
-<button onclick="slettKunde();">Slett</button>
+
+<hr>
+
+<!--- BootStrap table eksemple --->
+<table class="table-sm table-striped">
+    <thead class="thead-dark">
+    <tr>
+        <th scope="col">#</th>
+        <th scope="col">Navn</th>
+        <th scope="col">Adresse</th>
+        <th scope="col">Telefon</th>
+        <th scope="col">E-post</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th scope="row">1</th>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    </tbody>
+</table>
+
 </body>
 </html>
