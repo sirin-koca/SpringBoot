@@ -17,6 +17,7 @@ Dette er en liten webapplikasjon for å bestille kinobiletter. Kjøperen velger 
 * Spring Data JPA
 * H2 "in-memory" Database
 * JDBC API (spring-boot-starter-jdbc)
+* Styling with CSS framework Bootstrap
 
 ## Eventuelle mangler:
 Deployering på Heroku er ikke gjennomført på grunn av sikkerhetsproblemet - problemer med å knytte GitHub-repoer til Heroku-apper.
