@@ -9,7 +9,7 @@
 Dette er en liten webapplikasjon for å bestille kinobiletter. Kjøperen må velge en film fra drop-down menu og fylle ut alle feltene for å fullføre kjøpet. Etter fullført kjøp får brukeren oversikt over sine bestilte billetter under "Mine billetter" feltet. Brukeren får feilmelding når det er tomme felter ved bestilling. Etter et kjøp blir bestillingsskjemaet tømt ut slik at man kan registrere en ny billett. 
 
 ## Beskrivelse:
-Jeg har brukt Spring Framework sine innebygde moduler for å jobbe mot database:
+Jeg har brukt Spring sine innebygde moduler for å jobbe mot database:
 * Spring Data JPA
 * H2 "in-memory" Database
 * JDBC API (spring-boot-starter-jdbc)
