@@ -23,7 +23,7 @@ Dette er en liten webapplikasjon for å bestille kinobiletter. Kjøperen velger 
 Deployering på Heroku er ikke gjennomført på grunn av sikkerhetsproblemet - problemer med å knytte GitHub-repoer til Heroku-apper.
 
 ## Kommentar:
-Under resources ligger et eksempel på POJO-objekt av typen Kunde.
+Under resources ligger et eksempel på POJO av typen Kunde.
 
 ***
 Sirin Koca | OsloMet | 2022
