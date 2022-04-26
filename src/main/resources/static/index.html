@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kunde</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+<h2>Kunde Registrering</h2>
+Kundens navn: <input type="text" id="navn"><br/>
+Kundens adresse: <input type="text" id="addresse"><br/>
+Kundens telefonnr: <input type="number" id="telefon"><br/>
+Kundens e-post: <input type="email" id="epost"><br/>
+<button onclick="hentKunde();">Registrer</button><br/>
+<hr>
+Navn: <span id="utnavn"></span><br/>
+Adresse: <span id="utadresse"></span><br/>
+Telefonnr: <span id="uttlf"></span><br/>
+E-post: <span id="utepost"></span><br/>
+<br/>
+<button onclick="slettKunde();">Slett</button>
+</body>
+</html>
