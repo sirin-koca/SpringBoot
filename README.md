@@ -9,9 +9,9 @@
 Dette er en liten webapplikasjon for å bestille kinobiletter. Kjøperen må velge en film fra drop-down menu og fylle ut alle feltene for å fullføre kjøpet. Etter fullført kjøp får brukeren oversikt over sine bestilte billetter under "Mine billetter" feltet. Brukeren får feilmelding når det er tomme felter ved bestilling. Etter et kjøp blir bestillingsskjemaet tømt ut slik at man kan registrere en ny billett. Det er brukt en enkel variant av input-validering som tester ut tastefeil om det er tall bokstav etc - uten salting hashing.
 
 ## Beskrivelse:
-* Spring DevTool
 * Spring Web
-* Apache Maven
+* Spring DevTool
+* The Apache Tomcat Maven Plugin
 * jQery AJAX
 * Java POJO & JSON 
 * Spring Data JPA
